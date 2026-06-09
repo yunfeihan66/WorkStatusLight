@@ -1,0 +1,34 @@
+## Build output
+bin/
+obj/
+publish/
+
+## IDE / Editor
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## dotnet tool
+.dotnet/
+
+## Claude Code
+.claude/
